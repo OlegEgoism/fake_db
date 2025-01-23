@@ -14,7 +14,7 @@ fake = Faker('ru_RU')
 countries_size = 190
 banks_size = 100
 currencies_size = 100
-transactions_size, batch_size = 500000, 10000
+transactions_size, batch_size = 50000, 10000
 
 
 def clear_database():
