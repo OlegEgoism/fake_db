@@ -2,6 +2,8 @@ RU - Код демонстрирует возможность создавать
 
 EN - The code demonstrates the ability to create randomly generated data for a Postgres database.
 
+
+[demo.webm](demo.webm)
 ## DEMO
 
 <video width="640" height="360" controls>
