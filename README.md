@@ -5,4 +5,5 @@ EN
 The code demonstrates the ability to create randomly generated data for a Postgres database.
 
 DEMO
-[demo.webm](demo.webm)
+## DEMO
+[![Watch the video](demo.webm)](demo.webm)
